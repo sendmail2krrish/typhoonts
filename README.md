@@ -1,4 +1,4 @@
-### Note: this project has been transferred to (https://github.com/typhoonts/typhoonts)[https://github.com/typhoonts/typhoonts]
+### Note: this project has been transferred to [https://github.com/typhoonts/typhoonts](https://github.com/typhoonts/typhoonts)
 
 # TyphoonTS
 
